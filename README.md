@@ -1,3 +1,44 @@
+# Escuela de Danza Folklórica Boliviana
+
+Aplicación web desarrollada con React y Vite que muestra una escuela de danza folklórica boliviana, ofreciendo cursos de diferentes danzas tradicionales como Caporal, Tinkus y Saya.
+
+## Características
+
+- Diseño responsivo utilizando Bootstrap
+- Modales interactivos para inscripción a cursos
+- Navegación intuitiva
+- Presentación de danzas folklóricas bolivianas
+
+## Tecnologías Utilizadas
+
+- React 18
+- Vite
+- Bootstrap 5
+- React Router DOM
+- ESLint
+
+## Instalación
+
+```bash
+git clone https://github.com/ChristopherRoyer/PRACTICA-FINAL.git
+cd PRACTICA-FINAL
+npm install
+
+# Desarrollo
+npm run dev
+
+# Despliegue
+npm run deploy
+```
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT.
+
+## Autor
+
+Christopher Royer
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
